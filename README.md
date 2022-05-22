@@ -20,6 +20,9 @@ Recently I've been working with a range of clients, most prominently the fab wor
 
 ## Languages
 
-![](https://wakatime.com/share/@mashermack/295952a4-3c8b-4da5-adf6-de605f4d5d79.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@mashermack/685a402f-c388-481d-888f-f4bad2f21ef7.png">
+  <img alt="Wakatime Graph" src="https://wakatime.com/share/@mashermack/fdc92fd0-b5e0-40ca-8dc2-b8b0fb8d2268.png">
+</picture>
 
 <small>Stats provided from [wakatime](https://wakatime.com) </small>
