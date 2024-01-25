@@ -1,7 +1,7 @@
 ![](https://pbs.twimg.com/profile_banners/194275306/1523280158/1500x500)
 # Ciao 👋, I'm [Luigi](https://luigimannoni.com)
 
-A creative full stack developer, with more than 10 years of tracked professional experience in web development, although I've been coding for fun for almost 20 years now.
+A creative full stack developer, with more than 14 years of tracked professional experience in web development, although I've been coding for fun for almost 25 years now.
 
 ## What I do
 
